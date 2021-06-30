@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm vào tim Hoàng thế này <3
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Xem Thêm Về Hoàng',
+    btnIntro: 'Xem Thêm Về Hoàng Nè <3',
     title: 'Phải chăng em đã yêu Hoàng ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy Hoàng ',
     btnYes: 'Vẫn cứ là thích anh <33',
@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Em Yêu Anh 1505 <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Biết ngay mà, Anh yêu Em <3.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun nè <3',
     messLink: 'http://fb.com//m.me/3000.TRU.2480
 }
